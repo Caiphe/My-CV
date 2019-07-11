@@ -1,0 +1,91 @@
+body {
+   background:white;  
+    background-repeat:repeat;
+}
+.navbar {
+    background:#0e5fab;
+    background-repeat:repeat;
+}
+
+.jumbotron {
+    background-color: transparent;
+    padding: 70px 0 0 0;
+}
+.green {
+    color: #e8e34d;
+	font-weight:bold;
+	width:50%;
+	height:40px;
+	font-family: 'Open Sans', sans-serif;
+}
+#myBrand{
+	z-index: 1;
+	margin-top:-8px;
+}
+#navigat
+{
+	background-color:transparent;
+}
+#navigat ul{
+	margin: auto 2px;
+}
+#navigat ul li a
+{
+	color:rgb(224, 210, 12);
+	font-size:15px;
+	font-family: 'Montserrat', sans-serif;
+	transition: 1s;
+}
+
+#navigat ul li a:hover
+{
+	color:white;
+	background:#d1ad0a;
+	font-family: 'Montserrat', sans-serif;
+}
+#navigat ul li a:active{
+	background:transparent;
+	color:red;
+	font-family: 'Open Sans', sans-serif;
+}
+.thumbs {
+    padding: 40px 0;
+}
+.img-circle{
+	max-width:60px;
+	border:solid 2px yellow;
+	box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.5), 0 2px 8px 0 rgba(0, 0, 0, 0.14);
+	
+}
+.footer {
+    background:#126dbb;
+}
+.footer a
+{
+	font-weight:light;
+	color:#EBE843  ;
+	text-decoration:none;
+}
+.footer a:hover{
+	color:#cc230c;
+	opacity:0.9;
+}
+.myHeading{
+	color: rgb(102, 102, 102);
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	font-size: 40px;
+	word-break: break-all;
+}
+.underLine{
+	border-top: solid 2px rgb(68, 68, 68);
+	height: 4px;
+	width: 80px;
+	text-align: center;
+}
+.underLine2{
+	border-top: solid 2px rgb(68, 68, 68);
+	height: 4px;
+	width: 300px;
+	text-align: center;
+}

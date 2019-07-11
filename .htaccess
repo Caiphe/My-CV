@@ -1,0 +1,5 @@
+Options +FollowSymlinks
+RewriteEngine on
+
+RewriteRule ^welcome-home$   index.php [L]
+RewriteRule ^say-something-about-me$   sayit.php [L]
